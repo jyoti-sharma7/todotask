@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodotaskWeb",
+    "\\TodotaskWeb\\Views",
+    "\\TodotaskWeb\\Views\\Note",
+    "\\TodotaskWeb\\wwwroot",
+    "\\TodotaskWeb\\wwwroot\\images",
+    "\\TodotaskWeb\\wwwroot\\js",
+    "\\TodotaskWeb\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\TodotaskWeb\\Views\\Note\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
